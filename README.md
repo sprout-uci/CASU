@@ -1,5 +1,7 @@
 # CASU: Compromise Aviodance via Secure Updates for Low-end Embedded Systems
 
+##### CASU paper (ICCAD'22): [https://dl.acm.org/doi/abs/10.1145/3508352.3549450]
+
 Guaranteeing run-time integrity of embedded system software is
 an open problem. Trade-offs between security and other priorities
 (e.g., cost or performance) are inherent and resolving them is both
