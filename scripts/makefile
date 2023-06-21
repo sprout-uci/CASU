@@ -7,7 +7,7 @@ install :
 	cd verif-tools ; \
 	tar -vxjf verilog2smv-1.1.2.tar.bz2 ; \
 	cd verilog2smv-1.1.2 ; \
-	sh build.sh ; \
+	bash build.sh ; \
 	cp verilog2smv.sh ../
 
 mem :
