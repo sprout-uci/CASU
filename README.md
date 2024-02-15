@@ -1,4 +1,5 @@
-# CASU: Compromise Aviodance via Secure Updates for Low-end Embedded Systems
+# TRAPS: TOCTOU Resilient Attestation Protocol for Swarms of low-end
+embedded systems
 
 ##### [CASU paper (ICCAD'22)](https://dl.acm.org/doi/abs/10.1145/3508352.3549450)
 
